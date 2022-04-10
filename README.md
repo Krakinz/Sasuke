@@ -16,7 +16,7 @@
 - Heroku account to deploy bot and bot api key. Register [ꪶ࿋྄ིᤢꫂ h e r e ꪶ࿋྄ིᤢꫂ](https://heroku.com) if you don't have one, or go the next step if you have one.
 - Weather api key. Get it here [ꪶ࿋྄ིᤢꫂ WAPI ꪶ࿋྄ིᤢꫂ](weather.org)
 - IMDB key - for image sync. Get one [ꪶ࿋྄ིᤢꫂ IMDB ꪶ࿋྄ིᤢꫂ](i.bb)
-- Sasuke session code, tap this [ꪶ࿋྄ིᤢꫂ Session code ꪶ࿋྄ིᤢꫂ](replit.com/@krakinz/Sasuke) Button and scan with your WhatsApp. A session code will be sent in sudo mode.
+- Sasuke session code, tap this [ꪶ࿋྄ིᤢꫂ Session code ꪶ࿋྄ིᤢꫂ](https://replit.com/@GasComIT/Sasuke) Button and scan with your WhatsApp. A session code will be sent in sudo mode.
 - Finally open this [ꪶ࿋྄ིᤢꫂ HEROKU ꪶ࿋྄ིᤢꫂ](https://heroku.com?template=https://github.com/krakinz/sasuke.git) Deployment key and fill above details as per required.
 
 😎 Enjoy: courtesy of ꪶ࿋྄ིᤢꫂ----ꪶ࿋྄ིᤢꫂ𝚂𝚊𝚜𝚞𝚔𝚎 ​ᧁꪶ​ꪮ​᥇ꪖꪶ ꪶ࿋྄ིᤢꫂ----ꪶ࿋྄ིᤢꫂ
