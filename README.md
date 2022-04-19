@@ -2,6 +2,15 @@
 ꪶ࿋྄ིᤢꫂ 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝙱𝚘𝚝 𝚠𝚒𝚝𝚑 80+ 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚏𝚘𝚛 𝚋𝚘𝚝𝚑 𝚙𝚛𝚒𝚟𝚊𝚝𝚎 𝚊𝚗𝚍 𝚐𝚛𝚘𝚞𝚙𝚜 ꪶ࿋྄ིᤢꫂ
 
 #
+📛 Some  codes have been taken offline 
+from this repository for 
+further revisit as required 
+by salesforce company. 
+To avoid errors, do not 
+deploy this bot untill its back 
+online on 22nd May 2022. 
+Thank you for being with us.
+#
 #### Features
 
 - Sudo mode 
